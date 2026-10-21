@@ -1,0 +1,10 @@
+#Test case input (4 10) 150
+#Test case input (5 15) 100
+#Test case input (6 12) 150
+#Test case input (5 8) 90
+#Test case input (7 20) 122
+#Test case input (4 6) 90
+#Test case input (5 25) 47
+#Test case input (6 18) 95
+#Test case input (8 30) 290
+#Test case input (10 50) 100
